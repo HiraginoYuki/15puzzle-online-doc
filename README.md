@@ -1,1 +1,1 @@
-# 15-puzzle-online-doc
+# 15puzzle-online-doc
