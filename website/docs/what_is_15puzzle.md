@@ -19,8 +19,6 @@ One method of solving the puzzle is to **put the top part of the puzzle in the d
 
 [15-Puzzle Online](https://multiplayer-15puzzle.github.io/15puzzle-online) is a multiplayer version of [15-puzzle.app](https://15-puzzle.app) that allows you to play 15 puzzles **with other users**.
 
-「協力要素」や「対戦要素」はなく、単純に「一緒に15パズルをプレイするだけ」のゲームです。そのため「誰かと解く速度を競う必要」はなく、「相手を邪魔する必要」もありません。
-
 There are no "cooperative" or "competitive" elements. it's simply a game where you play 15 Puzzles together. So there is no need to compete with anyone for solving speed, nor is there any need to interfere with others.
 
 This means that you can solve 15 puzzles without worrying about being disturbed while you are solving them.
