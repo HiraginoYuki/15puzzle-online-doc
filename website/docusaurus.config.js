@@ -11,6 +11,7 @@ module.exports = {
   favicon: "img/logo.svg",
   organizationName: "multiplayer-15puzzle",
   projectName: "15puzzle-online-doc",
+  trailingSlash: true,
   themeConfig: {
     colorMode: {
       defaultMode: "dark",
