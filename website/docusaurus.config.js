@@ -4,7 +4,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import("@docusaurus/types").DocusaurusConfig} */
 module.exports = {
   title: "15 Puzzle Online",
-  url: "https://multiplayer-15puzzle.github.io/15puzzle-online-doc/",
+  url: "https://multiplayer-15puzzle.github.io",
   baseUrl: "/15puzzle-online-doc/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -58,7 +58,7 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            "https://github.com/multiplayer-15puzzle/15puzzle-online-doc/edit/master/website/",
+            "https://github.com/multiplayer-15puzzle/15puzzle-online-doc/edit/main/website/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
