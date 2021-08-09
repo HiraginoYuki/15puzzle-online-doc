@@ -12,6 +12,10 @@ module.exports = {
   organizationName: "multiplayer-15puzzle",
   projectName: "15puzzle-online-doc",
   trailingSlash: true,
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "ja"],
+  },
   themeConfig: {
     colorMode: {
       defaultMode: "dark",
@@ -23,6 +27,10 @@ module.exports = {
         src: "img/logo.svg",
       },
       items: [
+        {
+          type: "localeDropdown",
+          position: "left",
+        },
         {
           href: "https://github.com/multiplayer-15puzzle/15puzzle-online-doc",
           label: "GitHub",
