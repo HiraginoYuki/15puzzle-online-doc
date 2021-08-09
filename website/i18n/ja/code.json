@@ -140,7 +140,7 @@
     "description": "The label used for the latest version suggestion link label"
   },
   "theme.common.editThisPage": {
-    "message": "このページを編集",
+    "message": "このページを編集（⚠英語版の編集ページにジャンプします）",
     "description": "The link label to edit the current page"
   },
   "theme.common.headingLinkTitle": {
