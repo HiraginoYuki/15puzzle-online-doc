@@ -6,7 +6,7 @@ slug: /
 
 ## はじめに
 
-**「15 Puzzle Online」のドキュメントへようこそ！**
+**Welcome to 15 Puzzle Online Document!**
 
 このドキュメントでは「15 Puzzle Onlineの遊び方」や「そもそも15パズルとは何か？」を解説していきます。
 
