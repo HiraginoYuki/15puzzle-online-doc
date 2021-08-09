@@ -7,7 +7,7 @@ sidebar_position: 0
 
 A "15 Puzzle" is a sliding puzzle in which there are 15 squares on a 4x4 board and the object is to keep moving the squares until the desired position is reached.
 
-A 3x3 board is called an "8 puzzle" or a 5x5 board is called a "25 puzzle".
+A 3x3 board is called an "8 puzzle" or a 5x5 board is called a "24 puzzle".
 
 ### What are the rules of the puzzle?
 
