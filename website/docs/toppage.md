@@ -4,10 +4,10 @@ sidebar_position: 0
 slug: /
 ---
 
-## はじめに
+## Home
 
 **Welcome to 15 Puzzle Online Document!**
 
-このドキュメントでは「15 Puzzle Onlineの遊び方」や「そもそも15パズルとは何か？」を解説していきます。
+In this document, we will explain "How to play 15 Puzzle Online" and "What is a 15 puzzle?" in this document.
 
-左のペインから各カテゴリのページを見る事ができます。
+You can view the pages of each category from the left pane.
