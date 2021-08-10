@@ -19,6 +19,7 @@ module.exports = {
   themeConfig: {
     colorMode: {
       defaultMode: "dark",
+      disableSwitch: true
     },
     navbar: {
       title: "15 Puzzle Online",
