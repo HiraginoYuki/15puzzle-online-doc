@@ -3,7 +3,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import("@docusaurus/types").DocusaurusConfig} */
 module.exports = {
-  title: "15 Puzzle Online",
+  title: "15 Puzzle Online Document",
   url: "https://multiplayer-15puzzle.github.io",
   baseUrl: "/15puzzle-online-doc/",
   onBrokenLinks: "throw",
@@ -18,7 +18,7 @@ module.exports = {
   },
   themeConfig: {
     colorMode: {
-      defaultMode: "dark",
+      defaultMode: "dark"
     },
     navbar: {
       title: "15 Puzzle Online",
